@@ -1,4 +1,4 @@
-let a=3;
+let a=22;
 let b=5;
 let c=a+b;
 
