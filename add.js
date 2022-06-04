@@ -2,7 +2,7 @@
 let a=30;
 
 let b=5;
-let c=a+b;
+let c=a*b;
 
 
 
